@@ -1,13 +1,13 @@
 # ==========================F=U=N=C=T=I=O=N=S===================================================
 $mainurl = "http://www.toysrus.com"
 
-def close_continue
-  element = $driver.find_elements :xpath => "//div[@id = 'mopalLightBox'][@style = 'display: block;']//a[@id = 'mopalContinue']"
-  if element.count > 0
-    element[0].click
-  end
-  sleep 2
-end
+#def close_continue
+#  element = $driver.find_elements :xpath => "//div[@id = 'mopalLightBox'][@style = 'display: block;']//a[@id = 'mopalContinue']"
+#  if element.count > 0
+#    element[0].click
+#  end
+#  sleep 2
+#end
 
 def close_random
   element = $driver.find_elements :xpath => "//div[@id = 'bbiModal'][@style = 'display: block;']//div[@id = 'bbiCloseModal']"
