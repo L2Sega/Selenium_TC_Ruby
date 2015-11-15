@@ -256,5 +256,45 @@ Then /^Arrow loop$/ do
   end
 end
 
+Then /^Open Amazon$/ do
+  $driver.get "http://www.amazon.com/"
+end
+
+Then /^Enter ([^"]*) into search field$/ do |x|
+  element = $driver.find_element :id => "twotabsearchtextbox"
+  element.send_keys "#{x}"
+  element = $driver.find_element :xpath => "//input[@type = 'submit']"
+  element.click
+end
+
+Then /^Collect 5 stars books with prime option$/ do
+  next_page = $driver.find_element :id => "pagnNextString"
+  while next_page.enabled? do
+    items = $driver.find_elements :xpath => "//div[@class = 's-item-container'][.//span[text() = 'Prime']][.//span[contains(text(), '5 out')]]//h2"
+    if items.count == 0
+      raise "No product"
+    else
+      puts items
+      puts items.map {|n| n.text}
+    end
+    next_page.click
+    sleep 10
+    next_page = $driver.find_element :id => "pagnNextString"
+  end
+end
 
 
+
+
+
+#
+#  pages = $driver.find_elements :xpath => "//span[@class = 'pagnLink']"
+#  count = 2
+#  while pages.count > 0 do
+#    pages = $driver.find_element :xpath => "//span[@class = 'pagnLink']["+count.to_s+"]"
+#    pages.click
+#    count = count + 1
+#    pages = $driver.find_elements :xpath => "//span[@class = 'pagnLink']"
+#  end
+#
+#end

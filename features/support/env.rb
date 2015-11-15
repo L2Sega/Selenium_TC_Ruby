@@ -5,6 +5,7 @@ require 'cucumber'
 
 Before do
   $driver = Selenium::WebDriver.for :firefox
+  #$driver = Selenium::WebDriver.for :chrome
   $driver.get $mainurl
   $driver.manage.window.maximize
   $driver.manage.timeouts.implicit_wait = 3
