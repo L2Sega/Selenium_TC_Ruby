@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AdvLoops_1/.idea/AdvLoops_1.iml" filepath="$PROJECT_DIR$/../AdvLoops_1/.idea/AdvLoops_1.iml" />
+      <module fileurl="file://E:/Git/AdvancedSeleniumClass-master/.idea/AdvancedSeleniumClass.iml" filepath="E:/Git/AdvancedSeleniumClass-master/.idea/AdvancedSeleniumClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/My project.iml" filepath="$PROJECT_DIR$/.idea/My project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ruby training/.idea/Ruby training.iml" filepath="$PROJECT_DIR$/../Ruby training/.idea/Ruby training.iml" />
     </modules>
   </component>
 </project>

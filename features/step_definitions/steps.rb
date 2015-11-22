@@ -283,18 +283,11 @@ Then /^Collect 5 stars books with prime option$/ do
   end
 end
 
+Then /^This is Array$/ do
+  array_example = ['dog', 'ant', 'tree']
+  puts array_example[1]
+  array.push('value')
+  array['value'] = 'malue'
+end
 
 
-
-
-#
-#  pages = $driver.find_elements :xpath => "//span[@class = 'pagnLink']"
-#  count = 2
-#  while pages.count > 0 do
-#    pages = $driver.find_element :xpath => "//span[@class = 'pagnLink']["+count.to_s+"]"
-#    pages.click
-#    count = count + 1
-#    pages = $driver.find_elements :xpath => "//span[@class = 'pagnLink']"
-#  end
-#
-#end

@@ -133,8 +133,9 @@ Feature: Regression test for TRU
     Then Move to the category Age and Subcategory Big Kids
     Then Arrow loop
 
-  # Amazon 10
+  #Amazon 10
   Scenario: Amazon
     Then Open Amazon
     Then Enter Books into search field
     Then Collect 5 stars books with prime option
+
