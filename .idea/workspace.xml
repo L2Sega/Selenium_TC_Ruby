@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c64612ae-acb7-4210-a4f9-6a99f90ab8ab" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/My project.iml" afterPath="$PROJECT_DIR$/.idea/My project.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/env.rb" afterPath="$PROJECT_DIR$/features/support/env.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/instructions.feature" afterPath="$PROJECT_DIR$/features/instructions.feature" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/features/step_definitions/steps.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AdvLoops_1/.idea/AdvLoops_1.iml" afterPath="$PROJECT_DIR$/../AdvLoops_1/.idea/AdvLoops_1.iml" />
+      <change type="MODIFICATION" beforePath="E:/Git/AdvancedSeleniumClass-master/.idea/AdvancedSeleniumClass.iml" afterPath="E:/Git/AdvancedSeleniumClass-master/.idea/AdvancedSeleniumClass.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AdvLoops_1/features/loops.feature" afterPath="$PROJECT_DIR$/../AdvLoops_1/features/loops.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb" afterPath="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="My project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,70 +18,86 @@
   </component>
   <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1.coverage" NAME="Open drop down list: AdvLoops_1 Coverage Results" MODIFIED="1448292822976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project__4_.coverage" NAME="Search for the dress and verify that first displays dress: My project (4) Coverage Results" MODIFIED="1445956838983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project.coverage" NAME="Search for the dress and verify that first displays dress: My project Coverage Results" MODIFIED="1445956996613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project__4_.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project (4) Coverage Results" MODIFIED="1445801155148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1__5_.coverage" NAME="while loop + for: AdvLoops_1 (5) Coverage Results" MODIFIED="1448181892717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project Coverage Results" MODIFIED="1446148070099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Print_if_not_New__AdvLoops_1__2_.coverage" NAME="Print if not New: AdvLoops_1 (2) Coverage Results" MODIFIED="1447922209801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@Add_2_item_from_the_category_Clearance__Action_Figure__My_project__3_.coverage" NAME="Add 2 item from the category Clearance/ Action Figure: My project (3) Coverage Results" MODIFIED="1445945857465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project Coverage Results" MODIFIED="1446148070099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1__1_.coverage" NAME="While and for loops: AdvLoops_1 (1) Coverage Results" MODIFIED="1448182966775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Add_2_item_from_the_category_Clearance__Action_Figure__My_project__3_.coverage" NAME="Add 2 item from the category Clearance/ Action Figure: My project (3) Coverage Results" MODIFIED="1445945857465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__5_.coverage" NAME="Mouse moving: My project (5) Coverage Results" MODIFIED="1446492536772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__3_.coverage" NAME="Mouse moving: My project (3) Coverage Results" MODIFIED="1446712456921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_from_the_category_Clearance__Action_Figure__My_project__2_.coverage" NAME="Add 2 item from the category Clearance/ Action Figure: My project (2) Coverage Results" MODIFIED="1445945656294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__3_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (3) Coverage Results" MODIFIED="1446469777835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1__4_.coverage" NAME="Cascade dropdown list: AdvLoops_1 (4) Coverage Results" MODIFIED="1448296262699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project__3_.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project (3) Coverage Results" MODIFIED="1445946198678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project__1_.coverage" NAME="Register user: My project (1) Coverage Results" MODIFIED="1446384754867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448206389998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__4_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (4) Coverage Results" MODIFIED="1446469847334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Identify_item_with_5_stars_review__My_project__1_.coverage" NAME="Identify item with 5 stars review: My project (1) Coverage Results" MODIFIED="1446147929281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__2_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (2) Coverage Results" MODIFIED="1446469701646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1__3_.coverage" NAME="Google: AdvLoops_1 (3) Coverage Results" MODIFIED="1448301481837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Task_3___For_loop___array___AdvLoops_1__5_.coverage" NAME="Task 3: (For loop + array): AdvLoops_1 (5) Coverage Results" MODIFIED="1448185983892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1__2_.coverage" NAME="Check the check-boxes with label: AdvLoops_1 (2) Coverage Results" MODIFIED="1448289701241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__1_.coverage" NAME="Loop 2: My project (1) Coverage Results" MODIFIED="1447850233320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1__3_.coverage" NAME="while loop + for: AdvLoops_1 (3) Coverage Results" MODIFIED="1448182634694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project__2_.coverage" NAME="Search for the dress and verify that first displays dress: My project (2) Coverage Results" MODIFIED="1445956655394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Loop__My_project.coverage" NAME="Loop: My project Coverage Results" MODIFIED="1446796515944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1__1_.coverage" NAME="while loop + for: AdvLoops_1 (1) Coverage Results" MODIFIED="1448182144301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project__4_.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project (4) Coverage Results" MODIFIED="1445944825727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Loop_2__My_project.coverage" NAME="Loop 2: My project Coverage Results" MODIFIED="1447850590114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project.coverage" NAME="Register user: My project Coverage Results" MODIFIED="1446384551773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Loop_2__My_project.coverage" NAME="Loop 2: My project Coverage Results" MODIFIED="1447850590114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project__4_.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project (4) Coverage Results" MODIFIED="1445944825727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1__2_.coverage" NAME="Open drop down list: AdvLoops_1 (2) Coverage Results" MODIFIED="1448291456009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Print_if_not_New__AdvLoops_1.coverage" NAME="Print if not New: AdvLoops_1 Coverage Results" MODIFIED="1448182996092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1__2_.coverage" NAME="Google: AdvLoops_1 (2) Coverage Results" MODIFIED="1448302355158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project__3_.coverage" NAME="Register user: My project (3) Coverage Results" MODIFIED="1446457882848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__2_.coverage" NAME="Loop 2: My project (2) Coverage Results" MODIFIED="1447850282684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1.coverage" NAME="Check the check-boxes with label: AdvLoops_1 Coverage Results" MODIFIED="1448289345433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1.coverage" NAME="while loop + for: AdvLoops_1 Coverage Results" MODIFIED="1448182008339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__2_.coverage" NAME="Loop 2: My project (2) Coverage Results" MODIFIED="1447850282684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@TestPlan__AdvancedSeleniumClass.coverage" NAME="TestPlan: AdvancedSeleniumClass Coverage Results" MODIFIED="1448206543108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Amazon__My_project__2_.coverage" NAME="Amazon: My project (2) Coverage Results" MODIFIED="1447428358220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Remove_item_from_the_Cart__My_project__1_.coverage" NAME="Remove item from the Cart: My project (1) Coverage Results" MODIFIED="1445802031194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project__2_.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project (2) Coverage Results" MODIFIED="1445944706788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Remove_item_from_the_Cart__My_project__1_.coverage" NAME="Remove item from the Cart: My project (1) Coverage Results" MODIFIED="1445802031194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__5_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (5) Coverage Results" MODIFIED="1445800258179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Identify_item_with_5_stars_review__My_project__2_.coverage" NAME="Identify item with 5 stars review: My project (2) Coverage Results" MODIFIED="1446131762725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project__5_.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project (5) Coverage Results" MODIFIED="1445944960347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1__4_.coverage" NAME="Google: AdvLoops_1 (4) Coverage Results" MODIFIED="1448301655930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___facebook__AdvancedSeleniumClass__4_.coverage" NAME="Main page functionality - external links - facebook: AdvancedSeleniumClass (4) Coverage Results" MODIFIED="1448216071113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1__3_.coverage" NAME="Check the check-boxes with label: AdvLoops_1 (3) Coverage Results" MODIFIED="1448289777971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___footer_navigation__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - footer navigation: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448207308075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1__1_.coverage" NAME="Google: AdvLoops_1 (1) Coverage Results" MODIFIED="1448302325928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Exception__AdvLoops_1.coverage" NAME="Exception: AdvLoops_1 Coverage Results" MODIFIED="1448124802155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls__toys_8_11_years_old__My_project__1_.coverage" NAME="Add 3-d item to the cart for category Girls' toys 8-11 years old: My project (1) Coverage Results" MODIFIED="1445947211749" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1.coverage" NAME="Cascade dropdown list: AdvLoops_1 Coverage Results" MODIFIED="1448296099012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1__1_.coverage" NAME="Open drop down list: AdvLoops_1 (1) Coverage Results" MODIFIED="1448292877967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___hangouts__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - external links - hangouts: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448217378885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1__5_.coverage" NAME="While and for loops: AdvLoops_1 (5) Coverage Results" MODIFIED="1447918496294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__5_.coverage" NAME="Loop 2: My project (5) Coverage Results" MODIFIED="1447583549921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1__5_.coverage" NAME="Google: AdvLoops_1 (5) Coverage Results" MODIFIED="1448301925350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__2_.coverage" NAME="Mouse moving: My project (2) Coverage Results" MODIFIED="1446492798050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Find_topic_displayed_on_the_button_of_the_TRU_home_page__My_project__1_.coverage" NAME="Find topic displayed on the button of the TRU home page: My project (1) Coverage Results" MODIFIED="1446147776722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1__1_.coverage" NAME="Check the check-boxes with label: AdvLoops_1 (1) Coverage Results" MODIFIED="1448289643703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___youtube__AdvancedSeleniumClass.coverage" NAME="Main page functionality - external links - youtube: AdvancedSeleniumClass Coverage Results" MODIFIED="1448218290997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Find_topic_displayed_on_the_button_of_the_TRU_home_page__My_project__1_.coverage" NAME="Find topic displayed on the button of the TRU home page: My project (1) Coverage Results" MODIFIED="1446147776722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Task_3___For_loop___array___AdvLoops_1.coverage" NAME="Task 3: (For loop + array): AdvLoops_1 Coverage Results" MODIFIED="1448186191645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Verify_that_user_can_add_any_item_to_the_cart__My_project__1_.coverage" NAME="Verify that user can add any item to the cart: My project (1) Coverage Results" MODIFIED="1446730630251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@LogIn__My_project__4_.coverage" NAME="LogIn: My project (4) Coverage Results" MODIFIED="1445791716318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project__2_.coverage" NAME="Register user: My project (2) Coverage Results" MODIFIED="1446457554005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Identify_item_with_5_stars_review__My_project__3_.coverage" NAME="Identify item with 5 stars review: My project (3) Coverage Results" MODIFIED="1446147850465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1__4_.coverage" NAME="Check the check-boxes with label: AdvLoops_1 (4) Coverage Results" MODIFIED="1448289820722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___hangouts__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - external links - hangouts: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448217754373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project__1_.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project (1) Coverage Results" MODIFIED="1445800846547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1.coverage" NAME="While and for loops: AdvLoops_1 Coverage Results" MODIFIED="1448182923126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_from_the_category_Clearance__Action_Figure__My_project.coverage" NAME="Add 2 item from the category Clearance/ Action Figure: My project Coverage Results" MODIFIED="1445945280624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Google__AdvLoops_1.coverage" NAME="Google: AdvLoops_1 Coverage Results" MODIFIED="1448302262491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop__My_project__1_.coverage" NAME="Loop: My project (1) Coverage Results" MODIFIED="1446796643933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project__3_.coverage" NAME="Search for the dress and verify that first displays dress: My project (3) Coverage Results" MODIFIED="1445956748902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1__4_.coverage" NAME="while loop + for: AdvLoops_1 (4) Coverage Results" MODIFIED="1448182740230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1__2_.coverage" NAME="While and for loops: AdvLoops_1 (2) Coverage Results" MODIFIED="1447920040005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@steps.coverage" NAME="steps Coverage Results" MODIFIED="1448287271883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___hangouts__AdvancedSeleniumClass.coverage" NAME="Main page functionality - external links - hangouts: AdvancedSeleniumClass Coverage Results" MODIFIED="1448217269270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Task_3___For_loop___array___AdvLoops_1__2_.coverage" NAME="Task 3: (For loop + array): AdvLoops_1 (2) Coverage Results" MODIFIED="1448186494796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@steps.coverage" NAME="steps Coverage Results" MODIFIED="1447917902495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__3_.coverage" NAME="Loop 2: My project (3) Coverage Results" MODIFIED="1447850474605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Amazon__My_project.coverage" NAME="Amazon: My project Coverage Results" MODIFIED="1447850429103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project__1_.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project (1) Coverage Results" MODIFIED="1445946169852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
@@ -98,30 +112,37 @@
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project__1_.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project (1) Coverage Results" MODIFIED="1445945164808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_1_item_from_the_category_Age_and_1_item_from_the_category_Brand__My_project__1_.coverage" NAME="Add 1 item from the category Age and 1 item from the category Brand: My project (1) Coverage Results" MODIFIED="1445801410619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_item_from_the_category_Clearance__Action_Figure__My_project__1_.coverage" NAME="Add 2 item from the category Clearance/ Action Figure: My project (1) Coverage Results" MODIFIED="1445945336684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1__5_.coverage" NAME="Cascade dropdown list: AdvLoops_1 (5) Coverage Results" MODIFIED="1448296417950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___footer_navigation__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - footer navigation: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448208500523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project__2_.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project (2) Coverage Results" MODIFIED="1445946184516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___instagram__AdvancedSeleniumClass.coverage" NAME="Main page functionality - external links - instagram: AdvancedSeleniumClass Coverage Results" MODIFIED="1448218092668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Find_topic_displayed_on_the_button_of_the_TRU_home_page__My_project.coverage" NAME="Find topic displayed on the button of the TRU home page: My project Coverage Results" MODIFIED="1446148145665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project__1_.coverage" NAME="Search for the dress and verify that first displays dress: My project (1) Coverage Results" MODIFIED="1445957045897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Verify_that_user_can_add_any_item_to_the_cart__My_project__5_.coverage" NAME="Verify that user can add any item to the cart: My project (5) Coverage Results" MODIFIED="1446730545167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass Coverage Results" MODIFIED="1448206577733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1__2_.coverage" NAME="Cascade dropdown list: AdvLoops_1 (2) Coverage Results" MODIFIED="1448296204252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass Coverage Results" MODIFIED="1448280693450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Search_for_the_dress_and_verify_that_first_displays_dress__My_project__5_.coverage" NAME="Search for the dress and verify that first displays dress: My project (5) Coverage Results" MODIFIED="1445956850465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Ruby_ex.coverage" NAME="Ruby ex Coverage Results" MODIFIED="1448205115898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Ruby training" MODULE_NAME="Ruby training" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1__3_.coverage" NAME="Cascade dropdown list: AdvLoops_1 (3) Coverage Results" MODIFIED="1448296235808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls__toys_8_11_years_old__My_project.coverage" NAME="Add 3-d item to the cart for category Girls' toys 8-11 years old: My project Coverage Results" MODIFIED="1445946777589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project__4_.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project (4) Coverage Results" MODIFIED="1445946625960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@1__Main_page_functionality___header_navigation__AdvancedSeleniumClass.coverage" NAME="1: Main page functionality - header navigation: AdvancedSeleniumClass Coverage Results" MODIFIED="1448206511377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Verify_that_user_can_add_any_item_to_the_cart__My_project.coverage" NAME="Verify that user can add any item to the cart: My project Coverage Results" MODIFIED="1446730612046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1__5_.coverage" NAME="Open drop down list: AdvLoops_1 (5) Coverage Results" MODIFIED="1448292784790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Add_1_item_from_the_category_Age_and_1_item_from_the_category_Brand__My_project__2_.coverage" NAME="Add 1 item from the category Age and 1 item from the category Brand: My project (2) Coverage Results" MODIFIED="1445801469622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@LogIn__My_project.coverage" NAME="LogIn: My project Coverage Results" MODIFIED="1445791497151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Loop__My_project__5_.coverage" NAME="Loop: My project (5) Coverage Results" MODIFIED="1446754468655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___footer_navigation__AdvancedSeleniumClass.coverage" NAME="Main page functionality - footer navigation: AdvancedSeleniumClass Coverage Results" MODIFIED="1448207222544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Cascade_dropdown_list__AdvLoops_1__1_.coverage" NAME="Cascade dropdown list: AdvLoops_1 (1) Coverage Results" MODIFIED="1448296179002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop__1__My_project__1_.coverage" NAME="Loop #1: My project (1) Coverage Results" MODIFIED="1447850847653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1__4_.coverage" NAME="While and for loops: AdvLoops_1 (4) Coverage Results" MODIFIED="1447922043947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__1_.coverage" NAME="Mouse moving: My project (1) Coverage Results" MODIFIED="1446492686291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Identify_item_with_5_stars_review__My_project.coverage" NAME="Identify item with 5 stars review: My project Coverage Results" MODIFIED="1446147890891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project__2_.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project (2) Coverage Results" MODIFIED="1445800894912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Identify_item_with_5_stars_review__My_project.coverage" NAME="Identify item with 5 stars review: My project Coverage Results" MODIFIED="1446147890891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__1_.coverage" NAME="Mouse moving: My project (1) Coverage Results" MODIFIED="1446492686291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___pinterest__AdvancedSeleniumClass.coverage" NAME="Main page functionality - external links - pinterest: AdvancedSeleniumClass Coverage Results" MODIFIED="1448218220962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448206626313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448280721018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1__4_.coverage" NAME="Open drop down list: AdvLoops_1 (4) Coverage Results" MODIFIED="1448292568893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@Check_the_check_boxes_with_label__AdvLoops_1__5_.coverage" NAME="Check the check-boxes with label: AdvLoops_1 (5) Coverage Results" MODIFIED="1448289889039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Verify_that_user_can_add_any_item_to_the_cart__My_project__3_.coverage" NAME="Verify that user can add any item to the cart: My project (3) Coverage Results" MODIFIED="1446730333919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_item_to_the_cart_for_category_Clearance__My_project__3_.coverage" NAME="Add 2 identical item to the cart for category Clearance: My project (3) Coverage Results" MODIFIED="1445801086810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project__4_.coverage" NAME="Register user: My project (4) Coverage Results" MODIFIED="1446383068512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
@@ -132,32 +153,33 @@
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___facebook__AdvancedSeleniumClass__3_.coverage" NAME="Main page functionality - external links - facebook: AdvancedSeleniumClass (3) Coverage Results" MODIFIED="1448216025015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@while_loop___for__AdvLoops_1__2_.coverage" NAME="while loop + for: AdvLoops_1 (2) Coverage Results" MODIFIED="1448182424535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop__My_project__3_.coverage" NAME="Loop: My project (3) Coverage Results" MODIFIED="1446743048589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project Coverage Results" MODIFIED="1446469312640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_2_identical_items_to_the_cart_for_category_Age_SubCategory_5_7_years_old__My_project.coverage" NAME="Add 2 identical items to the cart for category Age SubCategory 5-7 years old: My project Coverage Results" MODIFIED="1445945119423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project Coverage Results" MODIFIED="1446469312640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project__4_.coverage" NAME="Mouse moving: My project (4) Coverage Results" MODIFIED="1446492451156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Open_drop_down_list__AdvLoops_1__3_.coverage" NAME="Open drop down list: AdvLoops_1 (3) Coverage Results" MODIFIED="1448291555893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
     <SUITE FILE_PATH="coverage/My project@Loop__My_project__4_.coverage" NAME="Loop: My project (4) Coverage Results" MODIFIED="1446743176486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Check_navigation_to_the_Weekly_Add_page__My_project.coverage" NAME="Check navigation to the Weekly Add page: My project Coverage Results" MODIFIED="1445945918180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Add_1_item_from_the_category_Age_and_1_item_from_the_category_Brand__My_project.coverage" NAME="Add 1 item from the category Age and 1 item from the category Brand: My project Coverage Results" MODIFIED="1445801328157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___facebook__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - external links - facebook: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448216603886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
-    <SUITE FILE_PATH="coverage/My project@Remove_item_from_the_Cart__My_project.coverage" NAME="Remove item from the Cart: My project Coverage Results" MODIFIED="1445801922977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Add_1_item_from_the_category_Age_and_1_item_from_the_category_Brand__My_project.coverage" NAME="Add 1 item from the category Age and 1 item from the category Brand: My project Coverage Results" MODIFIED="1445801328157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Check_navigation_to_the_Weekly_Add_page__My_project.coverage" NAME="Check navigation to the Weekly Add page: My project Coverage Results" MODIFIED="1445945918180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Mouse_moving__My_project.coverage" NAME="Mouse moving: My project Coverage Results" MODIFIED="1447233553890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Remove_item_from_the_Cart__My_project.coverage" NAME="Remove item from the Cart: My project Coverage Results" MODIFIED="1445801922977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Verify_that_user_can_add_any_item_to_the_cart__My_project__4_.coverage" NAME="Verify that user can add any item to the cart: My project (4) Coverage Results" MODIFIED="1446730384473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Amazon__My_project__4_.coverage" NAME="Amazon: My project (4) Coverage Results" MODIFIED="1447429074021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Amazon__My_project__5_.coverage" NAME="Amazon: My project (5) Coverage Results" MODIFIED="1447429256887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448280747058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@LogIn__My_project__5_.coverage" NAME="LogIn: My project (5) Coverage Results" MODIFIED="1445791386416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__2_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (2) Coverage Results" MODIFIED="1448207435939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Amazon__My_project__5_.coverage" NAME="Amazon: My project (5) Coverage Results" MODIFIED="1447429256887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Register_user__My_project__5_.coverage" NAME="Register user: My project (5) Coverage Results" MODIFIED="1446383144472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@LogIn__My_project__3_.coverage" NAME="LogIn: My project (3) Coverage Results" MODIFIED="1445791634244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@While_and_for_loops__AdvLoops_1__3_.coverage" NAME="While and for loops: AdvLoops_1 (3) Coverage Results" MODIFIED="1447920215199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
-    <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project Coverage Results" MODIFIED="1445946046517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__1_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (1) Coverage Results" MODIFIED="1446469348397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___header_navigation__AdvancedSeleniumClass__5_.coverage" NAME="Main page functionality - header navigation: AdvancedSeleniumClass (5) Coverage Results" MODIFIED="1448204759942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
+    <SUITE FILE_PATH="coverage/My project@Add_2_item_to_the_cart_for_category_Brand_from_different_subcategories__My_project__1_.coverage" NAME="Add 2 item to the cart for category Brand from different subcategories: My project (1) Coverage Results" MODIFIED="1446469348397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls_toys_8_11_years_old__My_project.coverage" NAME="Add 3-d item to the cart for category Girl’s toys 8-11 years old: My project Coverage Results" MODIFIED="1445946046517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Main_page_functionality___external_links___twitter__AdvancedSeleniumClass__1_.coverage" NAME="Main page functionality - external links - twitter: AdvancedSeleniumClass (1) Coverage Results" MODIFIED="1448217972762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/Git/AdvancedSeleniumClass-master" MODULE_NAME="AdvancedSeleniumClass" />
     <SUITE FILE_PATH="coverage/My project@Loop__1__My_project.coverage" NAME="Loop #1: My project Coverage Results" MODIFIED="1447850703925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Loop_2__My_project__4_.coverage" NAME="Loop 2: My project (4) Coverage Results" MODIFIED="1447583524052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@Amazon__My_project__3_.coverage" NAME="Amazon: My project (3) Coverage Results" MODIFIED="1447428945273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
-    <SUITE FILE_PATH="coverage/My project@LogIn__My_project__2_.coverage" NAME="LogIn: My project (2) Coverage Results" MODIFIED="1445791604321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Print_if_not_New__AdvLoops_1__1_.coverage" NAME="Print if not New: AdvLoops_1 (1) Coverage Results" MODIFIED="1447922152688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../AdvLoops_1" MODULE_NAME="AdvLoops_1" />
+    <SUITE FILE_PATH="coverage/My project@LogIn__My_project__2_.coverage" NAME="LogIn: My project (2) Coverage Results" MODIFIED="1445791604321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
+    <SUITE FILE_PATH="coverage/My project@Amazon__My_project__3_.coverage" NAME="Amazon: My project (3) Coverage Results" MODIFIED="1447428945273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@LogIn__My_project__1_.coverage" NAME="LogIn: My project (1) Coverage Results" MODIFIED="1445792838639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Amazon__My_project__1_.coverage" NAME="Amazon: My project (1) Coverage Results" MODIFIED="1447850639947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
     <SUITE FILE_PATH="coverage/My project@Add_3_d_item_to_the_cart_for_category_Girls__toys_8_11_years_old__My_project__3_.coverage" NAME="Add 3-d item to the cart for category Girls' toys 8-11 years old: My project (3) Coverage Results" MODIFIED="1445947399416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="My project" />
@@ -177,28 +199,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestPlan.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/TestPlan.feature">
+      <file leaf-file-name="loops.feature" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/loops.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="0" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3298">
+            <state line="38" column="14" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5353075" vertical-offset="411" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="steps.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/step_definitions/steps.rb">
+        <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="0" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state line="189" column="0" selection-start="5533" selection-end="5533" vertical-scroll-proportion="0.0" vertical-offset="2863" max-vertical-offset="3434">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="env.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/support/env.rb">
+      <file leaf-file-name="env.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/support/env.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.22696929" vertical-offset="0" max-vertical-offset="749">
+            <state line="4" column="41" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
               <folding />
             </state>
           </provider>
@@ -212,7 +234,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="E:/Git/AdvancedSeleniumClass-master" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../AdvLoops_1" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -222,12 +244,12 @@
         <option value="$PROJECT_DIR$/features/Loops.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/steps.rb" />
         <option value="$PROJECT_DIR$/../AdvLoops_1/features/support/env.rb" />
-        <option value="$PROJECT_DIR$/../AdvLoops_1/features/loops.feature" />
-        <option value="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb" />
         <option value="E:/Git/AdvancedSeleniumClass-master/features/support/env.rb" />
         <option value="$PROJECT_DIR$/../Ruby training/Ruby ex" />
-        <option value="E:/Git/AdvancedSeleniumClass-master/features/step_definitions/steps.rb" />
         <option value="E:/Git/AdvancedSeleniumClass-master/features/TestPlan.feature" />
+        <option value="E:/Git/AdvancedSeleniumClass-master/features/step_definitions/steps.rb" />
+        <option value="$PROJECT_DIR$/../AdvLoops_1/features/loops.feature" />
+        <option value="$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb" />
       </list>
     </option>
   </component>
@@ -322,6 +344,88 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdvLoops_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdvLoops_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AdvLoops_1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="features" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step_definitions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -338,10 +442,10 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Cucumber.Main page functionality - external links - youtube: AdvancedSeleniumClass">
-    <configuration default="false" name="Main page functionality - external links - twitter: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+  <component name="RunManager" selected="Cucumber.Google: AdvLoops_1 (2)">
+    <configuration default="false" name="Google: AdvLoops_1 (4)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="AdvancedSeleniumClass" />
+      <module name="AdvLoops_1" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -358,9 +462,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/loops.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Main page functionality \- external links \- twitter$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Google$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -374,9 +478,9 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Main page functionality - external links - twitter: AdvancedSeleniumClass (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Google: AdvLoops_1 (5)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="AdvancedSeleniumClass" />
+      <module name="AdvLoops_1" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -393,9 +497,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/loops.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Main page functionality \- external links \- twitter$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Google$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -409,9 +513,9 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Main page functionality - external links - instagram: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Google: AdvLoops_1" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="AdvancedSeleniumClass" />
+      <module name="AdvLoops_1" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -428,9 +532,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/loops.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Main page functionality \- external links \- instagram$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Google$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -444,9 +548,9 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Main page functionality - external links - pinterest: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Google: AdvLoops_1 (1)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="AdvancedSeleniumClass" />
+      <module name="AdvLoops_1" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -463,9 +567,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/loops.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Main page functionality \- external links \- pinterest$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Google$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -479,9 +583,9 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Main page functionality - external links - youtube: AdvancedSeleniumClass" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+    <configuration default="false" name="Google: AdvLoops_1 (2)" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="AdvancedSeleniumClass" />
+      <module name="AdvLoops_1" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
@@ -498,9 +602,9 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/TestPlan.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/features/loops.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Main page functionality \- external links \- youtube$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Google$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features --format pretty" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -617,19 +721,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Cucumber.LogIn: My project" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - twitter: AdvancedSeleniumClass" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - twitter: AdvancedSeleniumClass (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - instagram: AdvancedSeleniumClass" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - pinterest: AdvancedSeleniumClass" />
-      <item index="5" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - youtube: AdvancedSeleniumClass" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (4)" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (5)" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (1)" />
+      <item index="5" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (2)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - youtube: AdvancedSeleniumClass" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - pinterest: AdvancedSeleniumClass" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - instagram: AdvancedSeleniumClass" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - twitter: AdvancedSeleniumClass (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Main page functionality - external links - twitter: AdvancedSeleniumClass" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.Google: AdvLoops_1 (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -661,26 +765,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17806451" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32988358" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25751072" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17095852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17310444" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39870968" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3984476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3984476" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -917,50 +1021,56 @@
         <state line="15" column="15" selection-start="301" selection-end="313" vertical-scroll-proportion="0.56947607" vertical-offset="5" max-vertical-offset="578" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/support/env.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="109" selection-end="109" vertical-scroll-proportion="0.1556064" vertical-offset="0" max-vertical-offset="437" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/loops.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="325" selection-end="325" vertical-scroll-proportion="0.69336385" vertical-offset="3" max-vertical-offset="493" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="180" column="51" selection-start="5608" selection-end="5608" vertical-scroll-proportion="0.53753024" vertical-offset="2838" max-vertical-offset="5083" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Ruby training/Ruby ex">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="0" selection-start="786" selection-end="786" vertical-scroll-proportion="0.41404358" vertical-offset="475" max-vertical-offset="1088" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="9" selection-start="2721" selection-end="2721" vertical-scroll-proportion="0.19492657" vertical-offset="1367" max-vertical-offset="2210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/TestPlan.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.0" vertical-offset="52" max-vertical-offset="3298">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/step_definitions/steps.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="0" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+        <state line="3" column="18" selection-start="89" selection-end="89" vertical-scroll-proportion="-1.3211845" vertical-offset="631" max-vertical-offset="3298">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.22696929" vertical-offset="0" max-vertical-offset="749">
+        <state line="10" column="3" selection-start="266" selection-end="266" vertical-scroll-proportion="0.38724375" vertical-offset="0" max-vertical-offset="439">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="8" selection-start="5559" selection-end="5565" vertical-scroll-proportion="0.33171913" vertical-offset="2923" max-vertical-offset="5083">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/support/env.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="41" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Git/AdvancedSeleniumClass-master/features/step_definitions/steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.7206573" vertical-offset="186" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/step_definitions/steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="189" column="0" selection-start="5533" selection-end="5533" vertical-scroll-proportion="0.0" vertical-offset="2863" max-vertical-offset="3434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AdvLoops_1/features/loops.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="14" selection-start="854" selection-end="854" vertical-scroll-proportion="0.5353075" vertical-offset="411" max-vertical-offset="850">
           <folding />
         </state>
       </provider>

@@ -39,16 +39,8 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="ruby-2.1.7-p400" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.5.7, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="cucumber-core (v1.3.0, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.10, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="gherkin3 (v3.1.2, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.11.2, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.1.7, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.48.1, ruby-2.1.7-p400) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="websocket (v1.2.2, ruby-2.1.7-p400) [gem]" level="application" />
     <orderEntry type="module" module-name="AdvLoops_1" />
     <orderEntry type="module" module-name="AdvancedSeleniumClass" />
     <orderEntry type="module" module-name="Ruby training" />
