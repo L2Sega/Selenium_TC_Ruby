@@ -2,7 +2,11 @@ require 'rubygems'
 require 'selenium-webdriver'
 require 'cucumber'
 
+require 'allure-cucumber'
 
+AllureCucumber.configure do |c|
+  c.output_dir = "/output/dir"
+end
 Before do
   $driver = Selenium::WebDriver.for :firefox
   #$driver = Selenium::WebDriver.for :chrome

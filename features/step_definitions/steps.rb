@@ -274,7 +274,6 @@ Then /^Collect 5 stars books with prime option$/ do
     if items.count == 0
       raise "No product"
     else
-      puts items
       puts items.map {|n| n.text}
     end
     next_page.click
